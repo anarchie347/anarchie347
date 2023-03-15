@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @anarchie347
-- 👀 I’m interested in: nothing
-- 🌱 I’m currently learning: nothing
-- 💞️ I’m looking to collaborate on: nothing
+- 👀 I’m interested in: Programming, mainly C# .NET winforms
+- 🌱 I’m currently learning: C#, Java, Brainfuck
+- 💞️ I’m looking to collaborate on: something interesting
+- 🔨 I'm currently working on: Scrabble in C# .NET winforms
 - 📫 How to reach me: don't
 
 <!---
