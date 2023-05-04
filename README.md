@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anarchie347
 - 👀 I’m interested in: Programming, mainly C# .NET winforms
-- 🌱 I’m currently learning: C#, Java, Brainfuck
+- 🌱 I’m currently learning: C#, Java, Brainfuck, Javascript (React), HTML, CSS
 - 💞️ I’m looking to collaborate on: something interesting
 - 🔨 I'm currently working on: Scrabble in C# .NET winforms
 - 📫 How to reach me: don't
