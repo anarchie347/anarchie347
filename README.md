@@ -6,7 +6,9 @@
 - 🔨 I'm currently working on: Scrabble in C# .NET winforms, BrainfuckPlus (my own language inspired by brainfuck), VScode extension for BrainfuckPlus
 - 📫 How to reach me: don't. If its really important I guess you could open an issue on one of my repositories
 
+<!-- 
 [![anarchie347's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarchie347&count_private=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!---
 anarchie347/anarchie347 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
