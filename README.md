@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @anarchie347
-- 👀 I’m interested in: mainly C# .NET winforms
+- 👀 I’m interested in: mainly C#, web development
 - 🌱 I’m currently learning: Java, Javascript (React), HTML, CSS, TypeScript, BrainfuckPlus (my own language)
-- 🏆 I consider myself competent at: C#, Brainfuck, VB.NET, VBA
+- 🏆 I can use: C#, Brainfuck, VB, JavaScript
 - 💞️ I’m looking to collaborate on: something interesting
-- 🔨 I'm currently working on: Scrabble in C# .NET winforms, BrainfuckPlus (my own language inspired by brainfuck), VScode extension for BrainfuckPlus
-- 📫 How to reach me: don't. If its really important I guess you could open an issue on one of my repositories
+- 🔨 I'm currently working on: BrainfuckPlus (my own language inspired by brainfuck), VScode extension for BrainfuckPlus
 
 <!-- 
 [![anarchie347's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarchie347&count_private=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
