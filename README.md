@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Java, Javascript (React), HTML, CSS, TypeScript, Rust, BrainfuckPlus (my own language)
 - 🏆 I can use: C#, Brainfuck, VB, JavaScript
 - 💞️ I’m looking to collaborate on: something interesting
-- 🔨 I'm currently working on: BrainfuckPlus (my own language inspired by brainfuck), VScode extension for BrainfuckPlus
+- 🔨 I'm currently working on: Circuits simulator
 
 <!-- 
 [![anarchie347's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarchie347&count_private=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
