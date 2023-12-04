@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anarchie347
 - 👀 I’m interested in: mainly C#, web development
-- 🌱 I’m currently learning: Java, Javascript (React), HTML, CSS, TypeScript, Rust, BrainfuckPlus (my own language)
+- 🌱 I’m currently learning: Rust, Java, Javascript (React), HTML, CSS, TypeScript, BrainfuckPlus (my own language)
 - 🏆 I can use: C#, Brainfuck, VB, JavaScript
 - 💞️ I’m looking to collaborate on: something interesting
 - 🔨 I'm currently working on: Circuits simulator
